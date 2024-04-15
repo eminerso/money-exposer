@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding:0;
+    text-decoration: none;
+    box-sizing: border-box;
+    list-style: none;
+}
+#input{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(129, 130, 131);
+    text-align: center;
+}
+#container{
+    width: 100%;
+}
+.line{
+    width: 100%;
+    display: flex;
+    margin-top: 20px;
+    position: relative;
+    left: 50px;
+    
+}
+.money{
+    
+    width: 600px;
+    height: 200px;
+    display: flex;
+    position:absolute;
+    overflow: hidden;
+    
+}
+img{
+    width: 100%;
+    height: 100%;
+    /* position: absolute; */
+    
+}
